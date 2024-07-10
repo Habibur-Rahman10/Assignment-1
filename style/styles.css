@@ -1,0 +1,90 @@
+.open-sans-normal {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+      "wdth" 100;
+  }
+.header{
+    background-image: url('../assets/Hero-bg.png');
+    margin:0 auto;
+    text-align: center;
+}
+
+.banner{
+    display: inline;
+    justify-content: space-around; 
+    margin: auto;
+}
+.banner-profile-picture{
+    align-items: center;
+    
+}
+.banner-title{
+    height: 136px;
+    width: 998px;
+    margin: auto;
+}
+.banner-description{
+    margin: auto;
+    
+}
+.text-center{
+    text-align: center;
+}
+
+
+div{
+    align-items: center;
+}
+.section{
+    display: block;
+}
+.btn-primary{
+    font-weight: bold;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border: none;
+    padding: 18px 33px;
+    border-radius: 5px;
+    margin-top: 40px;
+    
+}
+/* main styles */
+main{
+    text-align: center;
+}
+main ul li{
+    list-style: none;
+    
+}
+main li a{
+    text-decoration: none;
+}
+.section{
+    text-align: center;
+    margin-top: 110px;
+    display: ;
+}
+.main-div{
+    display: flex;
+    margin-top: 60px;
+}
+.main-pic-1{
+    
+}
+.main-button-1{
+    font-weight: bold;
+    color: white;
+    font-size: 20px;
+    border: none;
+    padding: 18px 33px;
+    border-radius: 5px;
+    margin-top: 40px;
+    text-decoration: none;
+    list-style: none;
+}
+.section-2{
+    display: inline;
+}
