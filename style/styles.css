@@ -91,4 +91,16 @@ main li a{
 .flex{
     display: flex;
     margin-top: 40px;
+    justify-content: space-between;
+}
+.section-3{
+    background-image: url('../assets/handshake.jpg');
+    margin: 0 auto;
+    text-align: center;
+    align-items: center;
+    
+}
+.footer{
+    justify-content: space-between;
+    margin-left: 20px;
 }
